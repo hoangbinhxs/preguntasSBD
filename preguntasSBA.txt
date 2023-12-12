@@ -1,0 +1,25 @@
+
+
+
+
+1¿Que es Amazon DynamoDB?
+~Amazon DynamoDB es un servicio de base de datos para guardar fotos ofrecido por Amazon como parte de Amazon Web Services
+#Amazon DynamoDB es un servicio de base de datos noSQL ofrecido por Amazon como parte de Amazon Web Services
+~Amazon DynamoDB es un servicio de base de datos relacional ofrecido por Amazon como parte de Amazon Web Services
+~Amazon DynamoDB es un servicio de base de datos mixto ofrecido por Amazon como parte de Amazon Web Services
+2.¿En qué sección de la consola de administración de AWS se encuentra Amazon Simple Storage Service (Amazon S3)?
+#Almacenamiento
+~Informática
+~Base de datos
+~Redes
+
+3.¿Qué instrucción me permite conocer el número de filas que tiene el Dataframe ?
+~empleados.head(10)
+#empleados.tail(10)
+~empleados.last(10)
+~empleados.limit(10)
+4¿Cuantas filas devuelve el metodo head()?
+#5
+~20
+~10
+~15
